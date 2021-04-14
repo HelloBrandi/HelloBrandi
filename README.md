@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @helloBrandi
-- 👀 I’m interested in art and drawing,computers,and video games! 
-- 🌱 I’m currently learning HTML, CSS, and JavaScript using The Odin Project's awesome curriculm.
+- 👀 I’m interested in art and drawing, computers, and video games! 
+- 🌱 I’m currently learning HTML, CSS, and JavaScript using The Odin Project's awesome curriculum.
 - 💞️ I’m looking to collaborate on any project where I can learn from others!
 - 📫 How to reach me email or this website!
 
